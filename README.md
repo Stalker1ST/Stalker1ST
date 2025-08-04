@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: **React, Next.js, Tailwind CSS**
 - 🛠️ I love Front-End design, smooth UI, and ✨aesthetic code✨
 - 💌 Ask me about anything frontend!
-- 😴 Fun fact: I sometimes debug in my dreams (does it still count?)
+- 💖 Fun fact: Sometimes I write code, sometimes I stare at it for 20 minutes… either way, I'm Stalk and it's part of the process 💫
 
 ---
 
