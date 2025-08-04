@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🧠 About Me
 - 🌱 I’m currently learning: **React, Next.js, Tailwind CSS**
-- 🛠️ I love clean design, smooth UI, and ✨aesthetic code✨
+- 🛠️ I love Front-End design, smooth UI, and ✨aesthetic code✨
 - 💌 Ask me about anything frontend!
 - 😴 Fun fact: I sometimes debug in my dreams (does it still count?)
 
